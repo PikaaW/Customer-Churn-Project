@@ -10,4 +10,7 @@ PowerCo Energy has a significant customer churn problem in SME segment
 
 ## Process
 1. Data Exploratory
+  - Statistics
+  - Distribution skewness
+  - Correlation
 2. Feature engineering
