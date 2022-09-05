@@ -14,3 +14,14 @@ PowerCo Energy has a significant customer churn problem in SME segment
   - Distribution skewness
   - Correlation
 2. Feature engineering
+  - Add price differences across periods
+  - Transform datetime to number of months
+  - Transform boolean, categoric, and skewed data
+  - Correlations
+ 3. Modelling
+  - Random Forest
+  - Evaluation metrics
+  - Feature importance
+ 4. Discount strategy
+  - Baseline
+  - Optimise Cut-off 
